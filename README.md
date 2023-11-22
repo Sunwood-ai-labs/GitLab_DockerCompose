@@ -18,7 +18,7 @@ Docker Composeファイルは、GitLabのコンテナを起動するために必
 - `shm_size: '256m'`：共有メモリのサイズを設定します。
 
 
-```
+```Docker
 
 version: '3.6'
 services:
@@ -58,7 +58,7 @@ sudo docker-compose exec web /bin/bash
 cat /etc/gitlab/initial_root_password
 ```
 
-```
+```bash
 
 maki@maki-Green:~/Documents/GitLab_DockerCompose$ sudo docker-compose exec  web /bin/bash
 
