@@ -1,5 +1,7 @@
 # GitLab_DockerCompose
 
+![](https://github.com/Sunwood-ai-labs/GitLab_DockerCompose/blob/main/image/screen.png)
+
 このプロジェクトは、Docker Composeを使用してGitLabをセットアップします。GitLabは、ソースコードのバージョン管理やコラボレーションを行うためのツールです。
 
 
